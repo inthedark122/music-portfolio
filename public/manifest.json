@@ -1,1 +1,20 @@
-{}
+{
+  "short_name": "Music Portfolio",
+  "name": "Music Portfolio",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "512x512 256x256 128x128 64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#060502",
+  "background_color": "#ffffff"
+}

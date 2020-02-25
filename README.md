@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Версионирование
+
+- V3: Реализация кастомного service worker (pubic/sw-v1.js)
+
 ## Available Scripts
 
 In the project directory, you can run:
