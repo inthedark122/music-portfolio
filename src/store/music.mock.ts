@@ -4,19 +4,22 @@ export const albumes: Album[] = [
   {
     title: "Лучшее, часть 1",
     link: "https://www.deezer.com/album/15534362",
-    cover: "https://api.deezer.com/album/15534362/image",
+    cover:
+      "https://cdns-images.dzcdn.net/images/cover/c0d347b114b8819e38914df3f4f2e3b3/120x120-000000-80-0-0.jpg",
     genres: [
       {
         id: 152,
         name: "Rock",
-        picture: "https://api.deezer.com/genre/152/image",
+        picture:
+          "https://e-cdns-images.dzcdn.net/images/misc/b36ca681666d617edd0dcb5ab389a6ac/120x120-000000-80-0-0.jpg",
         type: "genre"
       }
     ],
     artist: {
       id: 4237492,
       name: "Король и Шут",
-      picture: "https://api.deezer.com/artist/4237492/image"
+      picture:
+        "https://e-cdns-images.dzcdn.net/images/artist/a2b3908e7fc9bf8493c8fc67f9054c06/120x120-000000-80-0-0.jpg"
     },
     tracks: [
       {
